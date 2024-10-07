@@ -56,9 +56,10 @@
     "singleQuote": true
   },
   "dependencies": {
-    "appium-adb": "^12.5.2",
-    "appium-android-driver": "^9.10.1",
-    "appium-chromedriver": "^5.6.28",
+    "appium-adb": "github:LambdatestIncPrivate/appium-adb#appium-2.11.4",
+    "appium-android-driver": "github:LambdatestIncPrivate/appium-android-driver#appium-2.11.4",
+    "appium-chromedriver": "github:LambdatestIncPrivate/appium-chromedriver#appium-2.11.4",
+    "appium-monorepo": "github:LambdatestIncPrivate/appium#appium-2.11.4",
     "appium-uiautomator2-server": "^7.0.24",
     "asyncbox": "^3.0.0",
     "axios": "^1.6.5",
